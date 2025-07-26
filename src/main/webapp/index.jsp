@@ -21,5 +21,8 @@
 <h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
     Changes Made on July 25th To Test Deployment on Tomcat Server
 </h1>
+<h1 style="font-weight: bold; color: blue; font-size: 30px; text-align: center;">
+    Changes Made on July 25th To Download from Nexus and Upload  on Tomcat Server
+</h1>
 </body>
 </html>
